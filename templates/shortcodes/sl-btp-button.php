@@ -1,0 +1,1 @@
+<a class="button orange" href="/behind-the-practice"><?php _e( 'Show Me More', 'streetleverage-tools' ); ?></a>
